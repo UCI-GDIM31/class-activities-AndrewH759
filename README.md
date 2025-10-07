@@ -1,10 +1,12 @@
 # in-class-activities
-## Devlogs
+## "Hello World!"
 ### W1
-Write your W1 activity Devlog here.
+"Hello World!"
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
+
+The r,g,b variables are floats instead of ints because they derive from the color wheel going from 0 to 1. Bounce is an integer because it can only bounce once at a time and not like half a boucne. Every bounce is a full 'one' bounce. Step 4 part two had a missing semicolon at the end of the line - which is essential to execute the statment. 
 
 ## Open-Source Assets
 ### W1
