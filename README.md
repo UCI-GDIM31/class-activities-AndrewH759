@@ -18,32 +18,11 @@ Do your best to describe the following lines of code:
     line 32:_isGrounded = false;
     This line changes the _isGrounded member variable to false
 
+    Pt2. 
 
+    I did rigid body for the cat and ball because those collide and i did istrigger for the goal because it examines if ball is in r out.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    I accidently put the istrigger on the ball because and it fell through the floor. 
 
 
 
