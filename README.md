@@ -3,6 +3,54 @@
 ### W1
 "Hello World!"
 
+
+### W4
+
+Table 17:
+Do your best to describe the following lines of code:
+
+    line 17: private bool _isGrounded = true;
+    This sets a member variable of type boolean to the value true 
+
+    line 28: if (Input.GetKeyDown(KeyCode.Space) && _isGrounded)
+    This line calls the method GetKeyDown() with the parameter KeyCode.Space to see if the space key was clicked and it checks if the isGrounded member variable is true.
+
+    line 32:_isGrounded = false;
+    This line changes the _isGrounded member variable to false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
 
