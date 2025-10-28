@@ -4,6 +4,13 @@
 "Hello World!"
 
 
+### W5 
+
+
+1. Vector is never overkill. 
+2. First to make the class  with monobehavior and then get the Transform of the object and make the serialized field so we can change it in unity. Then, make a member variable for transform object - make a member variable for the mesh. Make a start method so that we can initialize  the NavMeshAgent with the current gameobject Mesh. Then int the start method change the destination of the navmeshto the position of the transform.
+
+
 ### W4
 
 Table 17:
