@@ -2,7 +2,9 @@
 ## "Hello World!"
 ### W1
 "Hello World!"
-
+### W7
+https://docs.google.com/document/d/1FI6_2kwBTTaRBxAmNkWfBAGIedIvuOI0K7P5KUZhsA8/edit?tab=t.0 
+gameplay system and a bit of outline
 
 ### W6
 
