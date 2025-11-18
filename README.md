@@ -2,6 +2,12 @@
 ## "Hello World!"
 ### W1
 "Hello World!"
+
+### W8
+https://docs.google.com/document/d/1khdO8ZV-L5blqv-UVzbuzbPLrCcANAtJdwGoxcWFbL4/edit?tab=t.0 
+
+Focused on the UI documentation
+
 ### W7
 https://docs.google.com/document/d/1FI6_2kwBTTaRBxAmNkWfBAGIedIvuOI0K7P5KUZhsA8/edit?tab=t.0 
 gameplay system and a bit of outline
